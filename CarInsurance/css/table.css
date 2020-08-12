@@ -1,0 +1,42 @@
+.bt {
+    background: rgba(151, 131, 126, 0.72);
+    margin: 10px;
+    border-radius: 8px;
+    width: 150px;
+    height: 50px;
+    -webkit-transition-duration: 0.4s;
+    transition-duration: 0.4s;
+    text-align: center;
+    line-height: 50px;
+}
+
+.bt:hover {
+    background-color: #cfb6b4;
+    color: white;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+th {
+    background-color: #9e8580;
+    padding: 15px;
+    text-align: center;
+    border-bottom: 1px solid #ddd;
+    font-size: 15px;
+}
+
+td {
+    padding: 15px;
+    text-align: center;
+    border-bottom: 1px solid #ddd;
+}
+
+tr:hover {
+    background-color: #8c8c8c;
+}
+
+
+
